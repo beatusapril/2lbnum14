@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\user\documents\visual studio 2017\projects\lab2_n14\lab2_n14\helputils.h(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2017\projects\lab2_n14\lab2_n14\helputils.h(80): warning C4566: character represented by universal-character-name '\u008F' cannot be represented in the current code page (1251)
+c:\users\user\documents\visual studio 2017\projects\lab2_n14\lab2_n14\company.h(132): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\lab2_n14\lab2_n14\source.cpp(132): warning C4715: 'ChangeInputData': not all control paths return a value
+c:\users\user\documents\visual studio 2017\projects\lab2_n14\lab2_n14\company.h(42): warning C4715: 'MyDate::CorrectDate': not all control paths return a value
+  Lab2_n14.vcxproj -> C:\Users\User\Documents\Visual Studio 2017\Projects\Lab2_n14\Debug\Lab2_n14.exe
+  Lab2_n14.vcxproj -> C:\Users\User\Documents\Visual Studio 2017\Projects\Lab2_n14\Debug\Lab2_n14.pdb (Partial PDB)
